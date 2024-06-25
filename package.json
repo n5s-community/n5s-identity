@@ -1,0 +1,11 @@
+{
+  "name": "n5s-identity",
+  "version": "1.0.0",
+  "description": "This repository contains source and resulting graphics of Nemesis identity:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "am@nemesys.lu",
+  "license": "closed"
+}
